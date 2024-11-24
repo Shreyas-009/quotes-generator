@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "text": "Life is what happens when you're busy making other plans.",
+    "author": "John Lennon",
+    "type": "motivational"
+  },
+  {
+    "id": 2,
+    "text": "The way to get started is to quit talking and begin doing.",
+    "author": "Walt Disney",
+    "type": "inspirational"
+  },
+  {
+    "id": 3,
+    "text": "Your time is limited, so don't waste it living someone else's life.",
+    "author": "Steve Jobs",
+    "type": "motivational"
+  }
+]
